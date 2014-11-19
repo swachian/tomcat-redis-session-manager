@@ -3,3 +3,8 @@ build/*
 .idea/*
 *.iml
 target/*
+/target
+example-app/build/*
+example-app/.gradle/*
+.DS_Store
+.rspec
